@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ice/ice1"
+	"$surfaceprop" "ice"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.8 .8 .8]"
+}

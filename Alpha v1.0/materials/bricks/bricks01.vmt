@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bricks/bricks01"
+	"$bumpmap" "bricks/bricks01_nrm"
+	"$surfaceprop" "brick"
+	$envmap "env_cubemap"
+	$envmaptint "[.6 .6 .6]"
+	$envmapcontrast "1"
+}

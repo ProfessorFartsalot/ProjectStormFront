@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALPIPE009A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/tf_tornadohighwayv2_beta/c-8768_-8346_-151"
+	}
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "signs/falloutbutton"
+	"$bumpmap" "signs/falloutbutton_nrm"
+	"$surfaceprop" "wood"
+	$envmap "env_cubemap"
+	$envmaptint "[.6 .6 .6]"
+	$envmapcontrast "1"
+}

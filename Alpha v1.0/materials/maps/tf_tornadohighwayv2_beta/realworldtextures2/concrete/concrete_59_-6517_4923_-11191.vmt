@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/REALWORLDTEXTURES2/CONCRETE/CONCRETE_59.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/tf_tornadohighwayv2_beta/c-6517_4923_-11191"
+	}
+}

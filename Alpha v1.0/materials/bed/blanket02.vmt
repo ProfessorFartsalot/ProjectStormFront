@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bed/blanket02"
+	"$bumpmap" "bed/blanket02_nrm"
+}

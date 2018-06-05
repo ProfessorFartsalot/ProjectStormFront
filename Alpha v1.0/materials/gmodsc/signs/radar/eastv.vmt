@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "gmodsc/signs/radar/eastv"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "1"
+}
+}
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/dovahkiin/helmetplate01"
+	"$bumpmap" "models/player/dovahkiin/helmetplate01_n"
+
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong" 1
+	"$phongexponent" 5
+	"$phongboost" 5
+	"$phongfresnelranges" "[0.05 0.5 1]"
+}

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "carpet/carpet_03"
+	"$surfaceprop" "carpet"
+	"$bumpmap" "carpet/carpet_03_nrm"
+	$envmap "env_cubemap"
+	$envmaptint "[.6 .6 .6]"
+	$envmapcontrast "1"
+}

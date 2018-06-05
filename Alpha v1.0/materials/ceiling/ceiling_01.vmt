@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ceiling/ceiling_01"
+	"$bumpmap" "ceiling/ceiling_01_nrm"
+	"$envmap" "env_cubemap"
+	$envmaptint "[.4 .4 .4]"
+	$envmapcontrast "1"
+}

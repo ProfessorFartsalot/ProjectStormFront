@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/dovahkiin/hairlong"
+	"$bumpmap" "models/player/dovahkiin/hairlong_n"
+	"$alphatest" 1
+	"$nocull" 1
+
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong" 1
+	"$phongexponent" 5
+	"$phongboost" 5
+	"$phongfresnelranges" "[0.05 0.5 1]"
+}

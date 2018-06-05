@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "skybox/sky_tornado2048ft"
+	"$nofog" 0
+	$ignorez 1
+}

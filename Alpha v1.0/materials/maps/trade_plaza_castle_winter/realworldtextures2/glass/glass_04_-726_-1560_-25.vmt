@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/REALWORLDTEXTURES2/GLASS/GLASS_04.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/trade_plaza_castle_winter/c-726_-1560_-25"
+	}
+}

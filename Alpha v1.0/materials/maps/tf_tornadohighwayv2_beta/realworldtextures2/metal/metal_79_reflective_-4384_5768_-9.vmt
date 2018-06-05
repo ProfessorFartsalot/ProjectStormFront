@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/REALWORLDTEXTURES2/METAL/METAL_79_REFLECTIVE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/tf_tornadohighwayv2_beta/c-4384_5768_-9"
+	}
+}

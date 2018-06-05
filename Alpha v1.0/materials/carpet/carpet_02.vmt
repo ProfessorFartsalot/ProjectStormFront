@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "carpet/carpet_02"
+	"$bumpmap" "carpet/carpet_02_nrm"
+	"$surfaceprop" "carpet"
+	"$detail" "carpet/carpet_detail"
+	"$detailblendfactor" ".4"
+	"$detailscale" "6"
+}
