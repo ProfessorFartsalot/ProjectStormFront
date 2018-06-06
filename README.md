@@ -19,5 +19,5 @@ If you plan to redistribute this game or use it for commercial use, you must agr
 
 </b>
 <h2>LICENSE AGREEMENT</h2>
-<p>The content here is provided "as is" without warranty. Regardless, the content within this game is listed as "fair use" and therefore there may exist *temporary* copyrighted material that the creator does not own, as it is currently only being used for test purposes only and not for official redistribution. If you are the copyright owner and wish for your material to not be used (suppose you made a texture modification and it got in the files, or you made a soundbyte and don't want it included), you may request it be removed via the issues tracking page. The official releases will not contain this material. You may not redistribute this content without first opening a discussion on the project page or otherwise contacting the author and you may not use this content for commercial use, as current versions are unstable and may not properly work.
+<p>The content here is provided "as is" without warranty. You may not redistribute this content without first opening a discussion on the project page or otherwise contacting the author and you may not use this content for commercial use, as current versions are unstable and may not properly work.
 </p>
