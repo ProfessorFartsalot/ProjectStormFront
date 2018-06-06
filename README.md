@@ -1,4 +1,4 @@
-# H1 PROJECT STORMFRONT ALPHA SERIES
+<h1>PROJECT STORMFRONT ALPHA SERIES</h1>
 
 <b>Welcome to Project: StormFront Alpha. This is a Source 2013 mod that is developed by the kind staff of FireHostRedux.net in which the player survives tornadoes.
 The plans for this mod are not currently complete, and they may very over time; hence why it is an alpha mod. The sole purpose of this mod is to give the player a realistic tornado survival experience.
