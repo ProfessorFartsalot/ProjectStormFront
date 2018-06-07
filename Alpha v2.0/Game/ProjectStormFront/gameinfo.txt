@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game	"Project: StormFrontMP"
+	game	"Project: StormFront MP"
 	title	"Project StormFront"
 	title2	"Multiplayer v1.1.0"
     developer    "DovahBearYT"
