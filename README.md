@@ -11,7 +11,7 @@ Continued updates and development are brought to you courtesy of FireHostRedux.n
 <h1> HOW TO PLAY </h1>
 <b>First off, install <a href="https://developer.valvesoftware.com/wiki/Source_SDK_2013">Source SDK 2013 Multiplayer</a> (You will need to click Multiplayer to install it directly from this wiki page).
 
-Download the latest release of <a href="https://github.com/Dovahkiin-Warrior/ProjectStormFront">Project: StormFront</a> and extract the zip to your steamapps/sourcemods folder.
+Download the latest release of <a href="https://github.com/Dovahkiin-Warrior/ProjectStormFront">Project: StormFront</a> and extract "ProjectStormFront" from the zip to your steamapps/sourcemods folder. You should have Steam/SteamApps/sourcemods/ProjectStormFront when done properly.
 
 Restart Steam and run the game.
 
