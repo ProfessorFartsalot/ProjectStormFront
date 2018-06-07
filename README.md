@@ -15,6 +15,8 @@ Download the latest release of <a href="https://github.com/Dovahkiin-Warrior/Pro
 
 Restart Steam and run the game.
 
+In these early stages of development, players will be mostly testing out game features such as tornado physics, vehicles, and the like. Those of you interested in contacting the developers may join FireHostRedux Discord and post anything in #projectstormfront-guest via https://discord.gg/JZ7CeDw .
+
 If you plan to redistribute this game or use it for commercial use, you must agree to the below license agreement. Commercial use at this point in time is not permitted just yet.
 
 </b>
