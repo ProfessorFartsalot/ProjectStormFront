@@ -1,0 +1,36 @@
+"GameInfo"
+{
+	game 		"Project: StormFront" //Change This to your mod name
+	title 		"Project StormFront"
+	type		singleplayer_only
+
+       developer    "DovahBearYT"
+       developer_url   "http://firehostredux.net"
+       manual    "https://github.com/Dovahkiin-Warrior/ProjectStormFront"
+	"icon"			"ProjectStormFront/resource/icon"
+	FileSystem
+	{
+		SteamAppId					243730				
+		SearchPaths
+		{
+			game+mod+mod_write+default_write_path	|gameinfo_path|.		
+			gamebin			|gameinfo_path|bin	
+			game			|gameinfo_path|psf_materials_dir.vpk
+			game			|gameinfo_path|psf_models_dir.vpk
+			game			|gameinfo_path|psf_resource_dir.vpk
+	                //This will port all hl2 content etc.
+			game_lv			|all_source_engine_paths|hl2/hl2_lv.vpk
+			game			|all_source_engine_paths|hl2/hl2_english.vpk
+			game			|all_source_engine_paths|hl2/hl2_pak.vpk
+			game			|all_source_engine_paths|hl2/hl2_textures.vpk
+			game			|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
+			game			|all_source_engine_paths|hl2/hl2_sound_misc.vpk
+			game			|all_source_engine_paths|hl2/hl2_misc.vpk
+			platform		        |all_source_engine_paths|platform/platform_misc.vpk
+	 
+			game			|all_source_engine_paths|hl2
+			platform                   |all_source_engine_paths|platform
+		}
+	}
+	
+}
