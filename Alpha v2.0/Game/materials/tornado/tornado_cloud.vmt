@@ -1,0 +1,8 @@
+"spritecard"
+{
+
+	"$basetexture" "tornado/tornado_cloud001b"
+	"$nofog" "0"
+	"$translucent" "1"
+	"$nocull" "1"
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "signs/gaben"
+	"$bumpmap" "signs/gaben_nrm"
+	"$surfaceprop" "wood"
+	$envmap "env_cubemap"
+	$envmaptint "[.6 .6 .6]"
+	$envmapcontrast "1"
+}

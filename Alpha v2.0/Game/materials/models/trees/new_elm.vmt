@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/trees/new_elm"
+	
+	"$bumpmap"	"models/trees/new_elm_normal"
+}

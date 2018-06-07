@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/grassfloor001a"
+	"%tooltexture"		"nature/blendgrassdirt001a_tooltexture"
+	"%keywords"		"wasteland"
+	"$surfaceprop"		"dirt"
+}

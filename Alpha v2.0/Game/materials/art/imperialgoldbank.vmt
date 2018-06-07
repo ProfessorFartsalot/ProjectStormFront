@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "art/imperialgoldbank"
+	"$bumpmap" "art/imperialgoldbank_nrm"
+	$envmap "env_cubemap"
+	$envmaptint "[.8 .8 .8]"
+	$envmapcontrast "1"
+}

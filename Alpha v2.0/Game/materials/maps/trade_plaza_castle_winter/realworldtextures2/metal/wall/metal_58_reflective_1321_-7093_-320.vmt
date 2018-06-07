@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/REALWORLDTEXTURES2/METAL/WALL/METAL_58_REFLECTIVE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/trade_plaza_castle_winter/c1321_-7093_-320"
+	}
+}

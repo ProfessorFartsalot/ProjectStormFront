@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "gmodsc/theater/video3"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "7"
+}
+}
+} 

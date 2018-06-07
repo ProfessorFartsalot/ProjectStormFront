@@ -1,0 +1,1198 @@
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+No vis information, direct lighting only.
+1179 faces
+12002592 square feet [1728373248.00 square inches]
+43 Displacements
+200514 Square Feet [28874158.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0120 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             422/65536        3376/524288   ( 0.6%) 
+planes                 938/65536       18760/1310720  ( 1.4%) 
+vertexes              1969/65536       23628/786432   ( 3.0%) 
+nodes                 2074/65536       66368/2097152  ( 3.2%) 
+texinfos                61/12288        4392/884736   ( 0.5%) 
+texdata                 22/2048          704/65536    ( 1.1%) 
+dispinfos               43/0            7568/0        ( 0.0%) 
+disp_verts            1467/0           29340/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples      566240/0          566240/0        ( 0.0%) 
+faces                 1179/65536       66024/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               87/65536        4872/3670016  ( 0.1%) 
+leaves                2092/65536       66944/2097152  ( 3.2%) 
+leaffaces             1282/65536        2564/131072   ( 2.0%) 
+leafbrushes           1162/65536        2324/131072   ( 1.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             5105/512000      20420/2048000  ( 1.0%) 
+edges                 2882/256000      11528/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1181104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       42314/393216   (10.8%) 
+LDR ambient table     2092/65536        8368/262144   ( 3.2%) 
+HDR ambient table     2092/65536        8368/262144   ( 3.2%) 
+LDR leaf ambient      5608/65536      157024/1835008  ( 8.6%) 
+HDR leaf ambient      2092/65536       58576/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5110     ( 0.0%) 
+pakfile               [variable]      318753/0        ( 0.0%) 
+physics               [variable]       26223/4194304  ( 0.6%) 
+physics terrain       [variable]        9141/1048576  ( 0.9%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+50 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+No vis information, direct lighting only.
+1179 faces
+12002592 square feet [1728373248.00 square inches]
+43 Displacements
+200514 Square Feet [28874158.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0091 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             422/65536        3376/524288   ( 0.6%) 
+planes                 938/65536       18760/1310720  ( 1.4%) 
+vertexes              1969/65536       23628/786432   ( 3.0%) 
+nodes                 2074/65536       66368/2097152  ( 3.2%) 
+texinfos                61/12288        4392/884736   ( 0.5%) 
+texdata                 22/2048          704/65536    ( 1.1%) 
+dispinfos               43/0            7568/0        ( 0.0%) 
+disp_verts            1467/0           29340/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples      566240/0          566240/0        ( 0.0%) 
+faces                 1179/65536       66024/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               87/65536        4872/3670016  ( 0.1%) 
+leaves                2092/65536       66944/2097152  ( 3.2%) 
+leaffaces             1282/65536        2564/131072   ( 2.0%) 
+leafbrushes           1162/65536        2324/131072   ( 1.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             5105/512000      20420/2048000  ( 1.0%) 
+edges                 2882/256000      11528/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1181104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       42314/393216   (10.8%) 
+LDR ambient table     2092/65536        8368/262144   ( 3.2%) 
+HDR ambient table     2092/65536        8368/262144   ( 3.2%) 
+LDR leaf ambient      5608/65536      157024/1835008  ( 8.6%) 
+HDR leaf ambient      2092/65536       58576/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5110     ( 0.0%) 
+pakfile               [variable]      318753/0        ( 0.0%) 
+physics               [variable]       26223/4194304  ( 0.6%) 
+physics terrain       [variable]        9141/1048576  ( 0.9%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+49 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+No vis information, direct lighting only.
+1179 faces
+12002592 square feet [1728373248.00 square inches]
+43 Displacements
+200514 Square Feet [28874158.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0109 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             422/65536        3376/524288   ( 0.6%) 
+planes                 938/65536       18760/1310720  ( 1.4%) 
+vertexes              1969/65536       23628/786432   ( 3.0%) 
+nodes                 2074/65536       66368/2097152  ( 3.2%) 
+texinfos                61/12288        4392/884736   ( 0.5%) 
+texdata                 22/2048          704/65536    ( 1.1%) 
+dispinfos               43/0            7568/0        ( 0.0%) 
+disp_verts            1467/0           29340/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples      566240/0          566240/0        ( 0.0%) 
+faces                 1179/65536       66024/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               87/65536        4872/3670016  ( 0.1%) 
+leaves                2092/65536       66944/2097152  ( 3.2%) 
+leaffaces             1282/65536        2564/131072   ( 2.0%) 
+leafbrushes           1162/65536        2324/131072   ( 1.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             5105/512000      20420/2048000  ( 1.0%) 
+edges                 2882/256000      11528/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1181104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       40191/393216   (10.2%) 
+LDR ambient table     2092/65536        8368/262144   ( 3.2%) 
+HDR ambient table     2092/65536        8368/262144   ( 3.2%) 
+LDR leaf ambient      5608/65536      157024/1835008  ( 8.6%) 
+HDR leaf ambient      2092/65536       58576/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5110     ( 0.0%) 
+pakfile               [variable]      318753/0        ( 0.0%) 
+physics               [variable]       26223/4194304  ( 0.6%) 
+physics terrain       [variable]        9141/1048576  ( 0.9%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+49 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+reading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt
+ 122 portalclusters
+ 398 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 14590
+Average clusters visible: 119
+Building PAS...
+Average clusters audible: 120
+visdatasize:4858  compressed from 3904
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+0 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+material "maps/ep2_background01/nature/water_riverbed03_501_-1875_56" not found.
+Material not found!: MAPS/EP2_BACKGROUND01/NATURE/WATER_RIVERBED03_501_-1875_56
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26223 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 345 texinfos to 61
+Reduced 27 texdatas to 22 (864 bytes to 599)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+reading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt
+ 122 portalclusters
+ 398 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 14590
+Average clusters visible: 119
+Building PAS...
+Average clusters audible: 120
+visdatasize:4858  compressed from 3904
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+1179 faces
+12002592 square feet [1728373248.00 square inches]
+43 Displacements
+200514 Square Feet [28874158.00 Square Inches]
+1179 patches before subdivision
+13949 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 423081, max 189
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(22230, 20672, 8616)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(600, 577, 160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16, 16, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0193 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5.
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26467 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 348 texinfos to 62
+Reduced 30 texdatas to 23 (986 bytes to 621)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+reading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt
+ 126 portalclusters
+ 420 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3 visible clusters (0.02%)
+Total clusters visible: 15577
+Average clusters visible: 123
+Building PAS...
+Average clusters audible: 124
+visdatasize:5018  compressed from 4032
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+1182 faces
+12005854 square feet [1728843008.00 square inches]
+43 Displacements
+200514 Square Feet [28874158.00 Square Inches]
+1182 patches before subdivision
+13952 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 423198, max 189
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(22255, 20696, 8631)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(606, 582, 163)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16, 16, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0168 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             422/65536        3376/524288   ( 0.6%) 
+planes                 938/65536       18760/1310720  ( 1.4%) 
+vertexes              1970/65536       23640/786432   ( 3.0%) 
+nodes                 2077/65536       66464/2097152  ( 3.2%) 
+texinfos                62/12288        4464/884736   ( 0.5%) 
+texdata                 23/2048          736/65536    ( 1.1%) 
+dispinfos               43/0            7568/0        ( 0.0%) 
+disp_verts            1467/0           29340/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples      566240/0          566240/0        ( 0.0%) 
+faces                 1182/65536       66192/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               88/65536        4928/3670016  ( 0.1%) 
+leaves                2095/65536       67040/2097152  ( 3.2%) 
+leaffaces             1285/65536        2570/131072   ( 2.0%) 
+leafbrushes           1164/65536        2328/131072   ( 1.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             5123/512000      20492/2048000  ( 1.0%) 
+edges                 2897/256000      11588/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1181104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5018/16777216 ( 0.0%) 
+entdata               [variable]       40221/393216   (10.2%) 
+LDR ambient table     2095/65536        8380/262144   ( 3.2%) 
+HDR ambient table     2095/65536        8380/262144   ( 3.2%) 
+LDR leaf ambient      5660/65536      158480/1835008  ( 8.6%) 
+HDR leaf ambient      2095/65536       58660/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5126     ( 0.0%) 
+pakfile               [variable]      319513/0        ( 0.0%) 
+physics               [variable]       26467/4194304  ( 0.6%) 
+physics terrain       [variable]        9141/1048576  ( 0.9%) 
+
+Level flags = 0
+
+Total triangle count: 2407
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+53 seconds elapsed
+
+
+
+materialPath: G:\Software\Steam\steamapps\sourcemods\ProjectStormFront\materials
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in g:\software\steam\steamapps\sourcemods\projectstormfront\gameinfo.txt
+Patching WVT material: maps/background01/nature/blendgrassdirt01_noprop_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassdirt01_wvt_patch
+Patching WVT material: maps/background01/nature/blendrockmud01a_wvt_patch
+Patching WVT material: maps/background01/nature/blendrocksand08c_wvt_patch
+Patching WVT material: maps/background01/nature/blendgrassmud01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_tornadovillage*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_tornadovillage*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26467 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSDIRT01 uses unknown detail object type forest_floor_01!
+.Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+Material NATURE/BLENDROCKMUD01A uses unknown detail object type canal_reeds2!
+Material NATURE/BLENDGRASSMUD01 uses unknown detail object type forest_floor_01!
+10
+Compacting texture/material tables...
+Reduced 348 texinfos to 62
+Reduced 30 texdatas to 23 (986 bytes to 621)
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+4 seconds elapsed
+
+
+
+6 threads
+reading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+reading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.prt
+ 126 portalclusters
+ 420 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3 visible clusters (0.02%)
+Total clusters visible: 15577
+Average clusters visible: 123
+Building PAS...
+Average clusters audible: 124
+visdatasize:5018  compressed from 4032
+writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+1182 faces
+12005854 square feet [1728843008.00 square inches]
+43 Displacements
+200514 Square Feet [28874158.00 Square Inches]
+1182 patches before subdivision
+13952 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 425328, max 189
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(13393, 19794, 13165)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(362, 555, 250)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10, 15, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0151 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             422/65536        3376/524288   ( 0.6%) 
+planes                 938/65536       18760/1310720  ( 1.4%) 
+vertexes              1970/65536       23640/786432   ( 3.0%) 
+nodes                 2077/65536       66464/2097152  ( 3.2%) 
+texinfos                62/12288        4464/884736   ( 0.5%) 
+texdata                 23/2048          736/65536    ( 1.1%) 
+dispinfos               43/0            7568/0        ( 0.0%) 
+disp_verts            1467/0           29340/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples      566240/0          566240/0        ( 0.0%) 
+faces                 1182/65536       66192/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               88/65536        4928/3670016  ( 0.1%) 
+leaves                2095/65536       67040/2097152  ( 3.2%) 
+leaffaces             1285/65536        2570/131072   ( 2.0%) 
+leafbrushes           1164/65536        2328/131072   ( 1.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             5123/512000      20492/2048000  ( 1.0%) 
+edges                 2897/256000      11588/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1181104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5018/16777216 ( 0.0%) 
+entdata               [variable]       40224/393216   (10.2%) 
+LDR ambient table     2095/65536        8380/262144   ( 3.2%) 
+HDR ambient table     2095/65536        8380/262144   ( 3.2%) 
+LDR leaf ambient      5641/65536      157948/1835008  ( 8.6%) 
+HDR leaf ambient      2095/65536       58660/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5052     ( 0.0%) 
+pakfile               [variable]      248134/0        ( 0.0%) 
+physics               [variable]       26467/4194304  ( 0.6%) 
+physics terrain       [variable]        9141/1048576  ( 0.9%) 
+
+Level flags = 0
+
+Total triangle count: 2407
+Writing g:\software\steam\steamapps\sourcemods\projectstormfront\maps\background01.bsp
+51 seconds elapsed

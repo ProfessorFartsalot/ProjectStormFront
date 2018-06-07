@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\natalya\plants\largebushc"
+	"$alphatest" "1"
+	"$nocull" "1"
+	"$model" "1"
+//ripped from de_inferno
+}

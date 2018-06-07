@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/grass"
+	"$basetexture2" "nature/pavement"
+	"$surfaceprop" "gravel"
+
+}

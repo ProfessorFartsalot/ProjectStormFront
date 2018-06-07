@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "art/dovahandcloveradventures"
+	"$bumpmap" "art/dovahandcloveradventures_nrm"
+	$envmap "env_cubemap"
+	$envmaptint "[.8 .8 .8]"
+	$envmapcontrast "1"
+}

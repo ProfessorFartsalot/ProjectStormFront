@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "skybox/sky_tornadovillagelf"
+	"$nofog" "0"
+	"$ignorez" "1"
+}
