@@ -2,7 +2,7 @@
 {
 	game	"Project: StormFront MP"
 	title	"Project StormFront"
-	title2	"Multiplayer v1.1.0"
+	title2	"Multiplayer v2.0.2"
     developer    "DovahBearYT"
     developer_url   "http://firehostredux.net"
     manual    "https://github.com/Dovahkiin-Warrior/ProjectStormFront"
@@ -49,11 +49,11 @@
 			// Note that this folder is scanned only when the game is booted.
 			game+mod			hl2mp/custom/*
 			game+mod			hl2/custom/*
-			game			|gameinfo_path|psf_materials_dir.vpk
+			game			|gameinfo_path|psf_textures_dir.vpk
 			game			|gameinfo_path|psf_models_dir.vpk
 			game			|gameinfo_path|psf_resource_dir.vpk
 			game			|gameinfo_path|psf_particles_dir.vpk
-
+			game			|gameinfo_path|psf_sound_dir.vpk
 			// Now search loose files.  We'll set the directory containing the gameinfo.txt file
 			// as the first "mod" search path (after any user customizations).  This is also the one
 			// that's used when writing to the "mod" path.
