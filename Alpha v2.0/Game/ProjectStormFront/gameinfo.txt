@@ -54,6 +54,7 @@
 			game			|gameinfo_path|psf_resource_dir.vpk
 			game			|gameinfo_path|psf_particles_dir.vpk
 			game			|gameinfo_path|psf_sound_dir.vpk
+			game			|gameinfo_path|psf_misc_dir.vpk
 			// Now search loose files.  We'll set the directory containing the gameinfo.txt file
 			// as the first "mod" search path (after any user customizations).  This is also the one
 			// that's used when writing to the "mod" path.
