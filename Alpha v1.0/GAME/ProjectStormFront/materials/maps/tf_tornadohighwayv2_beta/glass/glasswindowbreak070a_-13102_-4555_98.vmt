@@ -1,9 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/tf_tornadohighwayv2_beta/c-13102_-4555_98"
-		"$crackmaterial"		"maps/tf_tornadohighwayv2_beta/glass/glasswindowbreak070b_-13102_-4555_98"
-	}
-}

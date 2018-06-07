@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "RealWorldTextures/ceiling/ceiling_1_05"
-	"$bumpmap" "RealWorldTextures/ceiling/Ceiling_1_05_nrm"
-	"$surfaceprop" "wood"
-	$translucent 1
-}

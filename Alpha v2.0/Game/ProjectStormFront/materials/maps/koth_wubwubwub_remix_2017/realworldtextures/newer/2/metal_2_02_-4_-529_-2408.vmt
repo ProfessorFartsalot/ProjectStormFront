@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/REALWORLDTEXTURES/NEWER/2/METAL_2_02.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/koth_wubwubwub_remix_2017/c-4_-529_-2408"
-	}
-}

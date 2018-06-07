@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/REALWORLDTEXTURES/NEW/WOODFLOOR_A02.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/tf_tornadohighwayv2_beta/c-4737_8554_-160"
-	}
-}

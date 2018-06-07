@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/REALWORLDTEXTURES/FLOOR/MIXTILE/SOLID/BLACK.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/trade_plaza_castle_winter/c-740_493_-256"
-	}
-}

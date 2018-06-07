@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/GLASSWINDOW037A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/tf_tornadohighwayv2_beta/c-7876_-6225_-151"
-	}
-}

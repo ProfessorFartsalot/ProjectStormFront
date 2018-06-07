@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "glass/stainedglass"
-	"$bumpmap" "glass/stainedglass_nrm"
-	"$translucent" 1
-	"$surfaceprop" "glass"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[.9 .9 .9]"
-}

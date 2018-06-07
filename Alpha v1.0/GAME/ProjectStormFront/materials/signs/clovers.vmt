@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "signs/clovers"
-	"$bumpmap" "signs/clovers_nrm"
-	"$surfaceprop" "metal"
-	$envmap "env_cubemap"
-	$envmaptint "[.8 .8 .8]"
-	$envmapcontrast "1"
-}

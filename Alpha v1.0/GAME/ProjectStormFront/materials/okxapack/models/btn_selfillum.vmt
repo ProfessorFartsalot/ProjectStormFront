@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "okxapack/models/btn_selfillum"
-	"$surfaceprop" "metal"
-    $selfillum 1
-}

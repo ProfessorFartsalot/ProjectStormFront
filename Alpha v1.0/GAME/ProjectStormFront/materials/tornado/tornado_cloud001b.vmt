@@ -1,9 +1,0 @@
-"UnLitGeneric"
-{
-
-	"$basetexture" "tornado/tornado_cloud001b"
-	"%keywords" "combine"
-	"$nofog" "0"
-	"$model" "1"
-	"$translucent" "1"
-}

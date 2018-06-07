@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "nature/grass"
-	"$surfaceprop" "Grass"
-	"$bumpmap" "nature/grass_n"
-	"$envmap" "env_cubemap"
-	$envmaptint "[.4 .4 .4]"
-	$envmapcontrast "1"
-}

@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/GLASSWINDOW001BLU.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/koth_wubwubwub_remix_2017/c16_-18_-1480"
-	}
-}

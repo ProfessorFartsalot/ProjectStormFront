@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "nature/pavement"
-	"$bumpmap" "nature/pavement_n"
-	"$envmap" "env_cubemap"
-	$envmaptint "[.4 .4 .4]"
-	$envmapcontrast "1"
-}
