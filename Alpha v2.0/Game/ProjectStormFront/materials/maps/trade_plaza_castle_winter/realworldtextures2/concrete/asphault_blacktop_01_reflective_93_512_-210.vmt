@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/REALWORLDTEXTURES2/CONCRETE/ASPHAULT_BLACKTOP_01_REFLECTIVE.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/trade_plaza_castle_winter/c93_512_-210"
-	}
-}

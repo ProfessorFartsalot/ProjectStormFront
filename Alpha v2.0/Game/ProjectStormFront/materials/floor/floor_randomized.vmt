@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "floor/floor_randomized"
-	"$bumpmap" "floor/floor_randomized_nrm"
-	"$surfaceprop" "tile"
-	$envmap "env_cubemap"
-	$envmaptint "[2 2 2]"
-	$envmapcontrast "1"
-}

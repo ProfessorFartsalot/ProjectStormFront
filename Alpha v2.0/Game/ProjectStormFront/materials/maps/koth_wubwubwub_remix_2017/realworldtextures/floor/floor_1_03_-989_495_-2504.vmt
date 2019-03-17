@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/REALWORLDTEXTURES/FLOOR/FLOOR_1_03.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/koth_wubwubwub_remix_2017/c-989_495_-2504"
-	}
-}

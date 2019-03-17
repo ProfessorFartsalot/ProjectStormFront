@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/WOOD/WOODFLOOR006B.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/tf_tornadohighwayv2_beta/c-13084_-4492_-68"
-	}
-}

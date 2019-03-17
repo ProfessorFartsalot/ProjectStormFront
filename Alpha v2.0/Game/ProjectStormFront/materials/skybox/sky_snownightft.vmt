@@ -1,8 +1,0 @@
-"sky"
-{
-    "$basetexture" "skybox/sky_snownightft"
-    "$nofog" "1"
-    "$ignorez" "1"
-
-}
-

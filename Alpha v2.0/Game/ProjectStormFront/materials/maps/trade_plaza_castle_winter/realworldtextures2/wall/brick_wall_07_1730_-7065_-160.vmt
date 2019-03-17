@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/REALWORLDTEXTURES2/WALL/BRICK_WALL_07.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/trade_plaza_castle_winter/c1730_-7065_-160"
-	}
-}

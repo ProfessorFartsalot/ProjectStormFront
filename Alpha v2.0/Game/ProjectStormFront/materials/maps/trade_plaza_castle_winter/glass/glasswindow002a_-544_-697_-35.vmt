@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/GLASSWINDOW002A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/trade_plaza_castle_winter/c-544_-697_-35"
-	}
-}
