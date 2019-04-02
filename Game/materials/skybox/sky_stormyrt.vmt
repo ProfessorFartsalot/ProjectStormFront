@@ -1,0 +1,8 @@
+"unlitgeneric"
+{
+    "$basetexture" "skybox/sky_stormyrt"
+    "$nofog" "1"
+    "$ignorez" "1"
+
+}
+
